@@ -5,7 +5,7 @@
 	<artifactId>DaveLCorpWebapp</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0</version>
-	<name>DaveL Corp sample web app</name>
+	<name>DaveLCorpWebapp</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
